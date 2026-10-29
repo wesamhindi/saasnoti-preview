@@ -13,7 +13,7 @@ function filterArticles(category, updateUrl = true) {
   });
   document.querySelectorAll('.filter').forEach(button => button.setAttribute('aria-pressed', String(button.dataset.filter === category)));
   byId('library-empty').hidden = count > 0;
-  byId('filter-status').textContent = `${count} ${count === 1 ? 'guide' : 'guides'} shown`;
+  byId('filter-status').textContent = `${count} ${count === 1 ? 'article' : 'articles'} shown`;
   if (updateUrl) {
     const url = new URL(location.href);
     if (category === 'all') url.searchParams.delete('category');
@@ -73,7 +73,7 @@ function updateSearch() {
     link.append(title, meta); item.append(link); byId('search-results').append(item);
   }
   byId('search-state').hidden = matches.length > 0;
-  byId('search-state').textContent = 'No matching guides. Try “content”, “Squarespace”, or “tools”.';
+  byId('search-state').textContent = 'No matching articles. Try “content”, “Squarespace”, or “tools”.';
 }
 const dialog = byId('search-dialog');
 byId('open-search').hidden = false;
@@ -81,7 +81,7 @@ byId('open-search').addEventListener('click', async () => {
   closeMenu(); dialog.showModal(); byId('search-input').focus();
   byId('search-results').replaceChildren();
   byId('search-state').hidden = false;
-  byId('search-state').textContent = 'Loading guides…';
+  byId('search-state').textContent = 'Loading articles…';
   try { await loadSearch(); updateSearch(); }
   catch { byId('search-state').textContent = 'Search couldn’t load. Close this window to browse the reading list, or reopen it to try again.'; }
 });
