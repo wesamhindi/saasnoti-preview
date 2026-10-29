@@ -1,0 +1,3 @@
+Record type,Claim as written,Claim type,Original source URL,Exact supporting section,Checked on,Product version or region,Evidence status,Approved wording or removal,Reviewer,Recheck trigger
+INSTRUCTIONS,Split compound claims into separate rows,Fact / opinion / recommendation / example,"Open the original source, not only a search snippet",Record enough context to check scope,,Record limits that affect the statement,Supported / qualified / unsupported,Do not publish an unsupported claim as fact,,"Price, feature, policy, or source change"
+FICTIONAL EXAMPLE,This tool always doubles your traffic,Outcome claim,No source provided,None,,Unknown,Unsupported,Remove the promise; describe the task the tool actually performs,Example reviewer,New independently verifiable evidence

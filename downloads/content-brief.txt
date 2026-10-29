@@ -1,0 +1,49 @@
+SaaSNoti — Evidence-led content brief
+An original worksheet. Use one copy for one reader question.
+
+WORKING TITLE:
+READER: Who is trying to make a decision?
+QUESTION: What specific question should this page resolve?
+WHY THIS PAGE: What does an existing page fail to explain?
+BUSINESS CONNECTION: How does this relate to an actual service or product?
+
+RESEARCH ASSIGNMENT
+1. What must be verified? Separate factual claims from recommendations.
+2. Which primary sources can support those claims? Record URLs and dates.
+3. What can we contribute ourselves: a documented process, original example, comparison criteria, or genuine firsthand evidence?
+4. What evidence is missing? Decide what to remove or qualify.
+
+PAGE OUTLINE
+Opening answer:
+Decision criteria:
+Steps or worked example:
+Exceptions and tradeoffs:
+Evidence and source links:
+Reader's next action:
+
+CONNECTIONS
+Relevant existing page to link from:
+Relevant page to link to:
+Related guide this should not duplicate:
+
+REVIEW BEFORE PUBLICATION
+[ ] All claims checked against opened sources.
+[ ] Fictional examples labeled; no invented customer results.
+[ ] Instructions usable on the named product/version.
+[ ] Title, description, URL and image alt text reviewed.
+[ ] Internal links and mobile layout checked.
+[ ] A reviewer and recheck trigger recorded.
+
+MEASUREMENT PLAN
+What reader action matters:
+What evidence is available before publication:
+What to review later and when:
+What this evidence cannot prove:
+
+FICTIONAL MINI-BRIEF
+Reader: office manager booking a team photo session.
+Question: how should a team prepare without disrupting its workday?
+Original contribution: a clearly labeled example schedule and preparation list.
+Evidence needed: actual session duration and deliverables from the photographer.
+Next action: check the real service scope and request available dates.
+Avoid: inventing a client success story or claiming the guide will rank.
